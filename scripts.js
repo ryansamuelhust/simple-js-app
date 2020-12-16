@@ -6,3 +6,5 @@ let pokemonList = [
   { Name: 'Squirtle', height: 1.5, types: ['water']
   },
 ];
+for (let i = 0; i < height; i++)
+  console.log(i)
